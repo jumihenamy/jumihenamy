@@ -1,4 +1,4 @@
-**### My Readme file
+### My Readme file
 
 ## I'm a Developer, Artist and UI Designer
 
@@ -28,4 +28,4 @@ The languages that I like to work on -
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-sqare&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)**
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
